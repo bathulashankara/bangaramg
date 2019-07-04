@@ -1,0 +1,7 @@
+plublic class hello{
+	public static main (string[]) args{
+		for(int i=1;i<=8;i++){
+			system.out.println("hello world ..."+i);
+			}
+		}
+	}
